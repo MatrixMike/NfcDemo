@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-NfcDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-NfcDemo.iml" group="NfcDemo" />
       <module fileurl="file://$PROJECT_DIR$/NfcDemo.iml" filepath="$PROJECT_DIR$/NfcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NfcDemo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NfcDemo-app.iml" group="NfcDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
